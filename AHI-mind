@@ -1,4 +1,11 @@
-# Self-learning-AI-Kairow-Global-Archives>
+# Self-learning-AI-Kairow-Global-Archives>#$ git clone https://github.com/EFForg/https-everywhere.git
+#$cd https-everywhere && git submodule update --init ; cd ..
+#^ ok the above is not needed, because it's used below:
+
+set-globallizaion 
+
+pushd https-everywhere/
+git reset HEAD makexpi.sh
 $ BTC_(Brain_To-Computer).First,in 2019xx{{(Artificial-Human_Intelligence-specified-under<humanoird>
 -Global-networking-Hello,World-FRomKairow\\
 #request,templates-and_config.yml-Decoded-XML://Wikiapetia
