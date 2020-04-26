@@ -1,2 +1,3 @@
 # self-learning-A.I--versal-
-BTC (Brain To Computer) First started in 2019 made Versal but cant seem to find it unless asking its location through Seri or Alexa but mostly show all the place in what ever town or city its in but using a nutrual network and all was delete it self and changes pattering but is really useful  self learning A.I micro brain chips to read brain waves with the micro Electric wave passing the the brain and understanding (Versal) in order to record human memories and to keep human alive you technology (Artificial Human Intelligence.) 
+BTC (Brain To Computer) First started in 2019  (Artificial Human Intelligence.) specified under humanoird 
+Global-networking-Hello,World!-
