@@ -1,9 +1,6 @@
 # Self-learning-AI-Kairow-Global-Archives>#$ git clone https://github.com/EFForg/https-everywhere.git
 #$cd https-everywhere && git submodule update --init ; cd ..
-#^ ok the above is not needed, because it's used below:
-
-set-globallizaion 
-
+#^-set-globallizaion- install_xcode_plugin (codefix)
 pushd https-everywhere/
 git reset HEAD makexpi.sh
 $ BTC_(Brain_To-Computer).First,in 2019xx{{(Artificial-Human_Intelligence-specified-under<humanoird>
@@ -2114,3 +2111,4 @@ Promise.prototype.done = function (callback) {
     To:implement a plugin integration model to users can install special features to the software.
     To:implement many Artificial Human Intelligence areas like artificial Human neural networks, genetic algorithms, fuzzy logic, expert systems, emergent computing, etc.
     To=implement an Intelligent Assistant System for less experienced users to be guided in developing their systems.
+     install_xcode_plugin(FixIssue/FixCode')*
