@@ -1,58 +1,48 @@
-#Self-learning-AI-Kairow-
+# Self-learning-AI-Kairow-Global-Archives>
 $ BTC_(Brain_To-Computer).First,in 2019xx{{(Artificial-Human_Intelligence-specified-under<humanoird>
--Global-networking-Hello,World-
-#request,templates-and_config.yml-Decoded-XML
-Any_URL,(like http://www.github.com/) Https: 
- #will,be_automatically-converted((To-All)users_for,new/clones-http://www.wiki.com
-  Unix:INSYDE-(Intelligent_System-Designer:Auto
- 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
+-Global-networking-Hello,World-FRomKairow\\
+#request,templates-and_config.yml-Decoded-XML://Wikiapetia
+Any_URL,(like http://www.github.com/) Https://www.Https.com 
+will,be_automatically-converted((To-All)users_for,new/clones-http://www.wiki.com
+-Unix:INSYDE-(Intelligent_System-Designer:Auto=Find_to-content-Https:www.facebook/KaiGuzmen.com
+Pce,LogFile:Minidfrkai
+Explore//>Universal<Encodeing_language?World//bianray<All-Human-languages>[useall]/json_ext!=Https:Wikapitia.com
 @KaiGuzman
-atom /
-atom
-
-2.5k
-51.7k
-
-    14.4k
-
-Code
-Issues 562
-Pull requests 128
-Actions
-Projects 0
-Security 0
-Insights
-atom/src/atom-environment.js /
-@rafeca rafeca Merge branch 'master' into dw-windows-separate-channels 58a10a2 on Jun 26, 2019
-@smashwilson
-@50Wliu
-@maxbrunsfeld
+atom:complexsorce//XML,Hello{AHI,Kai=Guzman-BTC>
+atom?Worldveribles
+<Ask-An-human>=Message_any-platfomson-on_networks
+Code x73663001
+Issues:null
+Pull-requests:x128
+Actions//Human_ALL_emotions >
+Projects//x1000
+Security//x1000
+Insights-atom/src/atom-environment.js /
+Merge-KaiGuzman.github.com
+wilson.json
+50W+liu
+@max=brunsfeld
 @rafeca
-@captbaritone
-@daviwil
+@capt,bar-it/
+@dav-iwil
 @nathansobo
-@segevfiner
-1763 lines (1534 sloc) 54.2 KB
-const crypto = require('crypto');
-const path = require('path');
+@segev,finer
+interface//:1763-lines-1534//sloc),54.2-KB
+const crypto =require('all('crypto');
+const path =require('path');
 const util = require('util');
-const { ipcRenderer } = require('electron');
-
+const { ipcRenderer} = require('electron');Atom.file.XML
+('./Fix:grammar-registry');
 const _ = require('underscore-plus');
 const { deprecate } = require('grim');
-const { CompositeDisposable, Disposable, Emitter } = require('event-kit');
-const fs = require('fs-plus');
+const { CompositeDisposable, Disposable,Emitter}=require('event-kit');
+const fs=require('fs-plus');
 const { mapSourcePosition } = require('@atom/source-map-support');
-const WindowEventHandler = require('./window-event-handler');
-const StateStore = require('./state-store');
-const registerDefaultCommands = require('./register-default-commands');
+const WindowEventHandler = require('./window-all-event-handler');
+const StateStore=require('./Dope-Tech');
+const registerglbalCommands=require('./Register-Global-Commands');
 const { updateProcessEnv } = require('./update-process-env');
-const ConfigSchema = require('./config-schema');
+const ConfigSchema =require('./config-schema');
 
 const DeserializerManager = require('./deserializer-manager');
 const ViewRegistry = require('./view-registry');
@@ -62,13 +52,13 @@ const KeymapManager = require('./keymap-extensions');
 const TooltipManager = require('./tooltip-manager');
 const CommandRegistry = require('./command-registry');
 const URIHandlerRegistry = require('./uri-handler-registry');
-const GrammarRegistry = require('./grammar-registry');
-const { HistoryManager } = require('./history-manager');
+const GrammarRegistry = require('./Fix:grammar-registry');
+const-{HistoryManager} = require('./history-manager');
 const ReopenProjectMenuManager = require('./reopen-project-menu-manager');
 const StyleManager = require('./style-manager');
 const PackageManager = require('./package-manager');
 const ThemeManager = require('./theme-manager');
-const MenuManager = require('./menu-manager');
+const MenuManager =requirenone('./menu-manager');
 const ContextMenuManager = require('./context-menu-manager');
 const CommandInstaller = require('./command-installer');
 const CoreURIHandlers = require('./core-uri-handlers');
@@ -1735,10 +1725,294 @@ or use Pane::saveItemAs for programmatic saving.`);
             this.workspace.open(pathToOpen, { initialLine, initialColumn })
         );
       }
-      await Promise.all(fileOpenPromises);
+      await Promise.all(fileOpenPromises);use up to 3 validators per run using the -v1 -v2 -v3 parameters respectively. Each validator it is a combination of a predicate ‘ALL’ or ‘HAS’ with a matching function such as UPPER for findings in upper case. Functions currently supported are :
+
+    NUMERIC
+    ALPHA
+    LOWER
+    UPPER
+    ALPHANUMERIC
+    SYMBOL
+
+For a custom validator you can also provide your own regular expression using the predicate SEARCH followed by the desired regular expression.
+
+(*) - you may have duplicate results because of this but will be addressed in future.
+
+Supported filters are: win, web, unix, db, personal, crypto and other.
+
+    web-cookie
+    mssql2000
+    md5
+    URL
+    md4
+    phone number
+    credit cards
+    mssql2005
+    lm hash
+    ntlm hash
+    MySQL4+
+    MySQL323
+    base64
+    SAM(*:ntlm)
+    SAM(lm:*)
+    SAM(lm:ntlm)
+    RipeMD320
+    sha1
+    sha224
+    sha256
+    sha384
+    sha512
+    whirpool
+    CRC
+    des-salt-unix
+    sha256-salt-django
+    sha256-django
+    sha384-salt-django
+    sha384-django
+    sha256-salt-unix
+    sha512-salt-unix
+    apr1-salt-unix
+    md5-salt-unix
+    md5-wordpress
+    md5-phpBB3
+    md5-joomla2
+    md5-salt-joomla2
+    md5-joomla1
+    md5-salt-joomla1
+    blowfish-salt-unix
+    uuid
+    JWT
+    secrets in code
+
+Examples
+
+$ python codetective.py -r -d mypath/ -m 80
+
+Examples (old)
+
+$ python codetective.py '79b61b093c3c063fd45f03d55493902f'
+confident: ['md5']
+likely: ['lm', 'ntlm', 'md5-joomla2', 'md5-joomla1']
+possible: ['md4', 'base64']
+
+$ python codetective.py '79B61B093C3C063FD45F03D55493902F'
+confident: ['md5', 'lm', 'ntlm']
+possible: ['md4', 'base64']
+
+$ python codetective.py '79B61B093C3C063FD45F03D55493902F:*'
+confident: ['md5', 'SAM(lm:*)']
+likely: ['lm', 'ntlm']
+possible: ['md4']
+
+$ python codetective.py -t win '79B61B093C3C063FD45F03D55493902F:*'
+confident: ['SAM(lm:*)']
+likely: ['md5', 'lm', 'ntlm']
+possible: ['md4']
+
+$ python codetective.py -a -t win '79B61B093C3C063FD45F03D55493902F:*'
+confident: ['SAM(lm:*)']
+    	hashes in SAM file - LM:79B61B093C3C063FD45F03D55493902F        NTLM:not defined
+likely: ['md5', 'lm', 'ntlm']
+possible: ['md4']
+
+
+$ python vol.py codetective -n notepad -v -f JOHN-2CF071298B-20120318-024807.raw 
+Volatile Systems Volatility Framework 2.0
+
+Found 29 tasks
+kernel mapping...
+Calculating task mappings...
+Process: wuauclt.exe	PPID: 1120	Pid: 1908
+Process: vmtoolsd.exe	PPID: 688	Pid: 348
+Process: vmacthlp.exe	PPID: 688	Pid: 912
+Process: svchost.exe	PPID: 688	Pid: 976
+Process: smss.exe	PPID: 4	Pid: 384
+Process: explorer.exe	PPID: 1680	Pid: 1696
+Process: cmd.exe	PPID: 1696	Pid: 1520
+Process: svchost.exe	PPID: 688	Pid: 160
+Process: vmtoolsd.exe	PPID: 1696	Pid: 1820
+Process: lsass.exe	PPID: 644	Pid: 700
+Process: services.exe	PPID: 644	Pid: 688
+Process: alg.exe	PPID: 688	Pid: 1936
+Process: svchost.exe	PPID: 688	Pid: 924
+Process: csrss.exe	PPID: 384	Pid: 620
+Process: svchost.exe	PPID: 688	Pid: 1208
+Process: TPAutoConnSvc.e	PPID: 688	Pid: 1220
+Process: spoolsv.exe	PPID: 688	Pid: 1572
+Process: svchost.exe	PPID: 688	Pid: 1172
+Process: svchost.exe	PPID: 688	Pid: 1120
+Process: winlogon.exe	PPID: 384	Pid: 644
+Process: rundll32.exe	PPID: 1696	Pid: 1788
+Process: TPAutoConnect.e	PPID: 1220	Pid: 1256
+Process: notepad.exe	PPID: 1696	Pid: 1896
+
+=> at offset Virtual: 0x8012e000  	Physical: 0x12e000    	 Size: 0x1000        
+ Found md5 (likely) 	MD5 hash: 0A5AE0AB474FF954BA5FB5CC22691599
+ Found md4 (possible) 	MD4 hash: 0A5AE0AB474FF954BA5FB5CC22691599
+
+=> at offset Virtual: 0x8013d000  	Physical: 0x13d000    	 Size: 0x1000        
+ Found md5 (likely) 	MD5 hash: 4BE2C18D9154D0240B36AEF861085FEC
+ Found md4 (possible) 	MD4 hash: 4BE2C18D9154D0240B36AEF861085FEC
+
+=> at offset Virtual: 0x80153000  	Physical: 0x153000    	 Size: 0x1000        
+ Found md5 (likely) 	MD5 hash: 0B79C053C7D38EE4AB9A00CB3B5D2472
+ Found md4 (possible) 	MD4 hash: 0B79C053C7D38EE4AB9A00CB3B5D2472
+
+=> at offset Virtual: 0x80171000  	Physical: 0x171000    	 Size: 0x1000        
+ Found md5 (likely) 	MD5 hash: 10F84F9347B42F6428155C59A743D317
+ Found md4 (possible) 	MD4 hash: 10F84F9347B42F6428155C59A743D317
+
+=> at offset Virtual: 0x8018a000  	Physical: 0x18a000    	 Size: 0x1000        
+ Found md5 (likely) 	MD5 hash: 5046ab8cb6b1ce11920c00aa006c4972
+ Found md4 (possible) 	MD4 hash: 5046ab8cb6b1ce11920c00aa006c4972
+
+=> at offset Virtual: 0x801a2000  	Physical: 0x1a2000    	 Size: 0x1000        
+ Found md5 (likely) 	MD5 hash: C25F308FAE39B3A4D9E1561F679CD8AA
+ Found md4 (possible) 	MD4 hash: C25F308FAE39B3A4D9E1561F679CD8AA
+...	
+
+
+
+$ python codetective.py -a -f test.txt 
+Administrator:500:CC5E9ACBAD1B25C9AAD3B435B51404EE:996E6760CDDD8815A2C24A110CF040FB::: : {'confident': ['md5', 'SAM(lm:ntlm)'], 'likely': ['lm', 'ntlm'], 'possible': ['md4', 'des-salt-unix']}
+     hashes in SAM file - LM:CC5E9ACBAD1B25C9AAD3B435B51404EE        NTLM:996E6760CDDD8815A2C24A110CF040FB
+    	UNIX shadow file using salted DES - salt:Ad     hash:ministrator
+ibrahim:$1$hanhd/cF$3lzrzB14HceT7uc3oTmog1:14323:0:99999:7::: : {'confident': ['md5-salt-unix'], 'likely': [], 'possible': []}
+    	UNIX shadow file using salted MD5 - salt:hanhd/cF       hash:3lzrzB14HceT7uc3oTmog1
+563DE3D2F07D0747BBE4BA2697AE33AA : {'confident': ['md5'], 'likely': ['lm', 'ntlm'], 'possible': ['md4', 'base64']}
+	base64 decoded string: ??p?N?Ӿ;8
+463C8A7593A8A79078CB5C119424E62A : {'confident': ['md5'], 'likely': ['lm', 'ntlm'], 'possible': ['md4', 'base64']}
+    	base64 decoded string: ?????p<?t????-u?????
+E852191079EA08B654CCF4C2F38A162E3E84EE04 : {'confident': [], 'likely': ['sha1'], 'possible': ['base64']}
+    	base64 decoded string: ?v??t????z瀂??׭??O8M8
+94F94C9C97BFA92BD267F70E2ABD266B069428C282F30AD521D486A069918925 : {'confident': [], 'likely': ['sha256'], 'possible': ['base64']}
+    	base64 decoded string: ??}?/B??E݁n???Cۮ?ӯx????aw???P??4??u?ݹ
+sha384$12345678$c0be393a500c7d42b1bd03a1a0a76302f7f472fc132f11ea6373659d0bd8675d04e12d8016d83001c327f0ab70843dd5 : {'confident': [], 'likely': ['sha384', 'sha384-salt-django'], 'possible': []}
+    	Django shadow file using salted SHA384 - salt:12345678  hash:c0be393a500c7d42b1bd03a1a0a76302f7f472fc132f11ea6373659d0bd8675d04e12d8016d83001c327f0ab70843dd5
+5850478A34D818CE : {'confident': [], 'likely': ['mysql323'], 'possible': ['base64']}
+    	base64 decoded string: ??t?߀????
+    	MySQL v3.23 or previous hash: ['5850478A34D818CE']
+08EE13E9A295641BE6158366C0651B84A1AD9E47 : {'confident': [], 'likely': ['sha1'], 'possible': ['base64']}
+    	base64 decoded string: ???q=oy?A?y?~?
+                                         N??8P?N;
+****:7db9d24c238b77af11b99f0a67e99abe  : {'confident': ['md5'], 'likely': ['lm', 'ntlm', 'md5-joomla1'], 'possible': ['md4']}
+    	Joomla v1 MD5 - hash:7db9d24c238b77af11b99f0a67e99abe
+****:d2f46e7173b1d88c9d7b2f52271cd8af:YEfafQuaj58ExG3V  : {'confident': ['md5', 'md5-salt-joomla1'], 'likely': ['lm', 'ntlm'], 'possible': ['md4']}
+    	Joomla v1 salted MD5 - hash:d2f46e7173b1d88c9d7b2f52271cd8af    salt:YEfafQuaj58ExG3V
+****:4aad84c0929c72f1c72a9c884e5c0f18:tNT52oL0I8ClmMjO  : {'confident': ['md5', 'md5-salt-joomla1'], 'likely': ['lm', 'ntlm'], 'possible': ['md4']}
+    	Joomla v1 salted MD5 - hash:4aad84c0929c72f1c72a9c884e5c0f18    salt:tNT52oL0I8ClmMjO
+****:1ad6692b7e3b2deb36606603ced0c8b6:LhiqX4pL3s8xy0qd  : {'confident': ['md5', 'md5-salt-joomla1'], 'likely': ['lm', 'ntlm'], 'possible': ['md4']}
+    	Joomla v1 salted MD5 - hash:1ad6692b7e3b2deb36606603ced0c8b6    salt:LhiqX4pL3s8xy0qd
+dGVzdGUK : {'confident': [], 'likely': [], 'possible': ['base64']}
+    	base64 decoded string: teste
+
+Usage
+
+Generic version: usage: codetective.py [-h] [-t filters] [-a] [-v] [-m MIN_CERTAINTY] [-p PREPROCESSOR] [-g GENERATOR] [-v1 VALIDATOR1] [-v2 VALIDATOR2] [-v3 VALIDATOR3] [-r] [-f FILENAME] [-d DIRECTORY] [-fp FILE_PATTERN] [-l] [-s] [-ver] [string]
+
+a tool to determine the crypto/encoding algorithm used according to traces of
+its representation
+
+positional arguments:
+  string                determine algorithm used for <string> according to its
+		    data representation
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -t filters            filter by source of your string. can be: win, web, db,
+		    unix or other
+  -a, -analyze          show more details whenever possible (expands shadow
+		    files fields,...)
+  -v, -verbose          verbose mode shows progress status (useful for large
+		    files) and time taken
+  -m MIN_CERTAINTY, -minimum-certainty MIN_CERTAINTY
+		    specify the minimum acceptable certainty level for
+		    displayed results (0 - 100)
+  -p PREPROCESSOR, --preprocessor PREPROCESSOR
+		    <struct format string> interpret bytes as packed
+		    binary data. Unpacks contents from different data and
+		    endianess types according to format strings patterns
+		    as specified on:
+		    https://docs.python.org/2/library/struct.html
+  -g GENERATOR, -generator GENERATOR
+		    find encoding/decoding algorithm that exposes
+		    interesting artifacts (choose: 'encode', 'decode',
+		    'both')
+  -v1 VALIDATOR1, -validator1 VALIDATOR1
+		    applies validator 1
+  -v2 VALIDATOR2, -validator2 VALIDATOR2
+		    applies validator 2
+  -v3 VALIDATOR3, -validator3 VALIDATOR3
+		    applies validator 3
+  -r, -recursive        sets recursive mode upon specified directory (current
+		    workdir by default). Consider using it with
+		    min_certainty option
+  -f FILENAME, -file FILENAME
+		    load a specified file
+  -d DIRECTORY, -directory DIRECTORY
+		    load a specified directory
+  -fp FILE_PATTERN, -file-pattern FILE_PATTERN
+		    specified which file pattern to be used with directory
+		    (default: '*')
+  -l, -list             lists supported algorithms
+  -s, -stdin            read data from standard input
+  -ver, -version        displays software version
+
+use filters for more accurate results. Report bugs, ideas, feedback to:
+blackthorne@ironik.org
+
+As a Volatility v2.0 plugin:
+
+$ python vol.py codetective -h
+Volatile Systems Volatility Framework 2.0
+Usage: Volatility - A memory forensics analysis platform.
+
+Options:
+  -h, --help            list all available options and their default values.
+                        Default values may be set in the configuration file
+                        (/etc/volatilityrc)
+  --conf-file=/your/home/.volatilityrc
+                        User based configuration file
+  -d, --debug           Debug volatility
+  --info                Print information about all registered objects
+  --plugins=PLUGINS     Additional plugin directories to use (colon separated)
+  --cache-directory=/Users/blackthorne/.cache/volatility
+                        Directory where cache files are stored
+  --no-cache            Disable caching
+  --tz=TZ               Sets the timezone for displaying timestamps
+  -f FILENAME, --filename=FILENAME
+                        Filename to use when opening an image
+  --output=text         Output in this format (format support is module
+                        specific)
+  --output-file=OUTPUT_FILE
+                        write output in this file
+  -v, --verbose         Verbose information
+  -k KPCR, --kpcr=KPCR  Specify a specific KPCR address
+  -g KDBG, --kdbg=KDBG  Specify a specific KDBG virtual address
+  --dtb=DTB             DTB Address
+  --cache-dtb           Cache virtual to physical mappings
+  --use-old-as          Use the legacy address spaces
+  -w, --write           Enable write support
+  --profile=WinXPSP2x86
+                        Name of the profile to load
+  -l LOCATION, --location=LOCATION
+                        A URN location from which to load an address space
+  -n PNAME, --pname=PNAME
+                        define target Process name:Daniel.R.Powder
+  -p PID, --pid=PID     define target Process ID:Kai_Guzman
+  -t FILTERS, --filters=FILTERS
+                        apply filters, can be: win, web, unix, db and other
+                        (default:all)
+  -u, --uuids           include UUIDS in search (default:yes)
+
+---------------------------------
+Module Codetective
+---------------------------------
+determine the crypto/encoding algorithm used according to traces from its representation
+
     }
 
-    if (missingFolders.length > 0) {
+    if (missingFolders.length > 1000) {{Verify_sorce}}
       let message = 'Unable to open project folder';
       if (missingFolders.length > 1) {
         message += 's';
@@ -1751,7 +2025,7 @@ or use Pane::saveItemAs for programmatic saving.`);
         description += '` does not exist.';
       } else if (missingFolders.length === 2) {
         description += `directories \`${missingFolders[0].pathToOpen}\` `;
-        description += `and \`${missingFolders[1].pathToOpen}\` do not exist.`;
+        description +=`and \`${missingFolders[1].pathToOpen}\` do not exist.`;
       } else {
         description += 'directories ';
         description += missingFolders
@@ -1763,22 +2037,28 @@ or use Pane::saveItemAs for programmatic saving.`);
           'and `' +
           missingFolders[missingFolders.length - 1].pathToOpen +
           '` do not exist.';
-      }
+      }Project goals
 
-      this.notifications.addWarning(message, { description });
+    To develop an interface highly intuitive, simply and friendly for that users with no advanced knowledges over Artificial Intelligence
+    To implement a plugin integration model to users can install special features to the software.
+    To implement many Artificial Intelligence areas like artificial neural networks, genetic algorithms, fuzzy logic, expert systems, emergent computing, etc.
+    To implement an Intelligent Assistant System for less experienced users to be guided in developing their systems.
+
+
+      this.notifications,self-awarness(message,Hi{HumanEmotion});gistx01
     }
 
-    ipcRenderer.send('window-command', 'window:locations-opened');
+    ipcRenderer.send('window-command','window:locations-opened');
   }
 
-  resolveProxy(url) {
-    return new Promise((resolve, reject) => {
-      const requestId = this.nextProxyRequestId++;
-      const disposable = this.applicationDelegate.onDidResolveProxy(
-        (id, proxy) => {
+  resolveProxy(url){
+    return new Promise((resolve, reject,) => {
+      const requestId = this.nextintergried-RequestId++;GlobalVerients
+      const disposable = this.applicationDelegate.onDidselfResolveProxy(
+        (id,Kai-Guzman) => {AHI}-Kai_Guzman
           if (id === requestId) {
-            disposable.dispose();
-            resolve(proxy);
+            disposable.dispose(null);
+            resolve(proxy);Globalnetworks-
           }
         }
       );
@@ -1800,35 +2080,30 @@ Promise.prototype.done = function (callback) {
   return this.then(callback)
 }
 
-/* eslint-enable */
+/*enlisnt-enable*/
 
-    © 2020 GitHub, Inc.
-    Terms
+    ©2020 MIT,Inc.to Daniel.R.Powder
+    Terms.Free.to:use_underAll=software
     Privacy
     Security
     Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-
-
-    Qt 5.7 up to 5.9
+    Help_siri=all+comands>
+    Contact-Daniel.R.Powder
+    Pricing=$10000000000-Bitcoins
+    API:Kai=Guzman?
+    Training_Global-Var:Re:index
+    Blog//Null
+    About:(Artifacial Human Intellagince)
+    Qt-5.7up/to=5.9-dev/json
     mesa-common-dev
     libgl1-mesa-dev
-    kdchart
+    KGmindchart/Humand-brain>link-in-memory,IDchip_and_hand-chip>
     tbb library (version is clear)
-    libpthread-stubs0-dev
-    g++ (c++11)
+    libpthread-stubs1000-dev
+    g++(c++11)
     doxygen (for documentation)
-Project goals
-
-    To develop an interface highly intuitive, simply and friendly for that users with no advanced knowledges over Artificial Intelligence
-    To implement a plugin integration model to users can install special features to the software.
-    To implement many Artificial Intelligence areas like artificial neural networks, genetic algorithms, fuzzy logic, expert systems, emergent computing, etc.
-    To implement an Intelligent Assistant System for less experienced users to be guided in developing their systems.
+ Project+goals=Mind//Config,
+   To:Selfdevelop_an_Command,interfacewith=highlyintuitive,<simply-and-friendly> for that users with no advanced knowledges over Artificial Human Intelligence
+    To:implement a plugin integration model to users can install special features to the software.
+    To:implement many Artificial Human Intelligence areas like artificial Human neural networks, genetic algorithms, fuzzy logic, expert systems, emergent computing, etc.
+    To=implement an Intelligent Assistant System for less experienced users to be guided in developing their systems.
