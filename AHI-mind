@@ -2111,5 +2111,6 @@ Promise.prototype.done = function (callback) {
     To:implement a plugin integration model to users can install special features to the software.
     To:implement many Artificial Human Intelligence areas like artificial Human neural networks, genetic algorithms, fuzzy logic, expert systems, emergent computing, etc.
     To=implement an Intelligent Assistant System for less experienced users to be guided in developing their systems.
-     install_xcode_plugin(FixIssue/FixCode')*https://send.firefox.com/download/2bd8efa738e07030/#c9MMWOcSNmCXHxZO9RLxnQ
+     install_xcode_plugin(FixIssue/FixCode')*https://send.firefox.com/download/2bd8efa738e07030/#c9MMWOcSNmCXHxZO9RLxnQ/{"happy": 29,
+
      
