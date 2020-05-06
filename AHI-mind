@@ -2112,5 +2112,6 @@ Promise.prototype.done = function (callback) {
     To:implement many Artificial Human Intelligence areas like artificial Human neural networks, genetic algorithms, fuzzy logic, expert systems, emergent computing, etc.
     To=implement an Intelligent Assistant System for less experienced users to be guided in developing their systems.
      install_xcode_plugin(FixIssue/FixCode')*https://send.firefox.com/download/2bd8efa738e07030/#c9MMWOcSNmCXHxZO9RLxnQ/{"happy": 29,
-
+ name: Install dependencies
+      run: composer install --prefer-dist --no-progress
      
