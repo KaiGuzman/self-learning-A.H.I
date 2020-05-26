@@ -5,7 +5,7 @@ name:"Python package
 "on:KaiGuzman/self-learning-A.H.I
   push:"I"
     branches:[ master ]
-jobs:"bulid Human-Life"
+jobs:![.github/workflows/pythonpackage.yml](https://github.com/KaiGuzman/self-learning-A.H.I/workflows/.github/workflows/pythonpackage.yml/badge.svg?branch=master&event=check_run)
   build:"Kai-Guzman Self-Learning-A.H."
 runs-on: ubuntu-latest
     strategy:
