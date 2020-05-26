@@ -2114,4 +2114,5 @@ Promise.prototype.done = function (callback) {
      install_xcode_plugin(FixIssue/FixCode')*https://send.firefox.com/download/2bd8efa738e07030/#c9MMWOcSNmCXHxZO9RLxnQ/{"happy": 29,
  name: Install dependencies
       run: composer install --prefer-dist --no-progress
-     
+     q)\l ml/ml.q
+q).ml.loadfile`:init.q
