@@ -2,7 +2,7 @@
 #$cd https-everywhere && git submodule update --init ; cd ..
 #^-set-globallizaion- install_xcode_plugin (codefix)
 pushd https-everywhere/
-git reset HEAD makexpi.sh
+git set HEAD makexpi.sh
 $ BTC_(Brain_To-Computer).First,in 2019xx{{(Artificial-Human_Intelligence-specified-under<humanoird>
 -Global-networking-Hello,World-FRomKairow\\
 #request,templates-and_config.yml-Decoded-XML://Wikiapetia
@@ -1547,7 +1547,8 @@ or use Pane::saveItemAs for programmatic saving.`);
     }
   }
 
-  getConfigDirPath() {
+  getConfigDirPath(q)\l ml/ml.q
+q).ml.loadfile`:init.q) {
     if (!this.configDirPath) this.configDirPath = process.env.ATOM_HOME;
     return this.configDirPath;
   }
@@ -1558,7 +1559,8 @@ or use Pane::saveItemAs for programmatic saving.`);
       'coffee'
     ]);
     return initScriptPath || path.join(this.getConfigDirPath(), 'init.coffee');
-  }
+  }q)\l ml/ml.q
+q).ml.loadfile`:init.q
 
   requireUserInitScript() {
     const userInitScriptPath = this.getUserInitScriptPath();
@@ -1567,10 +1569,12 @@ or use Pane::saveItemAs for programmatic saving.`);
         if (fs.isFileSync(userInitScriptPath)) require(userInitScriptPath);
       } catch (error) {
         this.notifications.addError(
-          `Failed to load \`${userInitScriptPath}\``,
+          `to load \`${q)\l ml/ml.q
+q).ml.loadfile`:init.qq)\l ml/ml.q
+q).ml.loadfile`:init.q}\``,
           {
-            detail: error.message,
-            dismissable: true
+            detail:.message,
+            dismissable: false
           }
         );
       }
