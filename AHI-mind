@@ -1,4 +1,4 @@
-# Self-learning-AI-Kairow-Global-Archives>#$ git clone https://github.com/EFForg/https-everywhere.git
+#Self-learning-AI-Kairow-Global-Archives>#$ git clone https://github.com/EFForg/https-everywhere.git
 #$cd https-everywhere && git submodule update --init ; cd ..
 #^-set-globallizaion- install_xcode_plugin (codefix)
 pushd https-everywhere/
@@ -35,7 +35,7 @@ interface//:1763-lines-1534//sloc),54.2-KB
 const crypto =require('all('crypto');
 const path =require('path');
 const util = require('util');
-const { ipcRenderer} = require('electron');Atom.file.XML
+const { ipcRenderer} = require('electron');Atom.file.XMLd
 ('./Fix:grammar-registry');
 const _ = require('underscore-plus');
 const { deprecate } = require('grim');
@@ -44,7 +44,7 @@ const fs=require('fs-plus');
 const { mapSourcePosition } = require('@atom/source-map-support');
 const WindowEventHandler = require('./window-all-event-handler');
 const StateStore=require('./Dope-Tech');
-const registerglbalCommands=require('./Register-Global-Commands');
+const registerglbalCommands=require('./Register-Global-Commands'); 
 const { updateProcessEnv } = require('./update-process-env');
 const ConfigSchema =require('./config-schema');
 
@@ -53,7 +53,7 @@ const ViewRegistry = require('./view-registry');
 const NotificationManager = require('./notification-manager');
 const Config = require('./config');
 const KeymapManager = require('./keymap-extensions');
-const TooltipManager = require('./tooltip-manager');
+const TooltipManager = require('./tooltip-manager');dd
 const CommandRegistry = require('./command-registry');
 const URIHandlerRegistry = require('./uri-handler-registry');
 const GrammarRegistry = require('./Fix:grammar-registry');
@@ -61,7 +61,7 @@ const-{HistoryManager} = require('./history-manager');
 const ReopenProjectMenuManager = require('./reopen-project-menu-manager');
 const StyleManager = require('./style-manager');
 const PackageManager = require('./package-manager');
-const ThemeManager = require('./theme-manager');
+const ThemeManager = require('./theme-manager');d
 const MenuManager =requirenone('./menu-manager');
 const ContextMenuManager = require('./context-menu-manager');
 const CommandInstaller = require('./command-installer');
