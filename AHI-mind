@@ -2113,6 +2113,7 @@ Promise.prototype.done = function (callback) {
     To=implement an Intelligent Assistant System for less experienced users to be guided in developing their systems.
      install_xcode_plugin(FixIssue/FixCode')*https://send.firefox.com/download/2bd8efa738e07030/#c9MMWOcSNmCXHxZO9RLxnQ/{"happy": 29,
  name: Install dependencies
-      run: composer install --prefer-dist --no-progress
-     q)\l ml/ml.q
-q).ml.loadfile`:init.q
+      run: composer install_\l ml/ml.q_plugins
+ml.loadfile`:init.q
+   \l ml/ml.q
+ ml.loadfile`:init.q
