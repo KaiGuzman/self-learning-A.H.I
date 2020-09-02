@@ -7,7 +7,7 @@ name:"Python package
     branches:[ master ]
 jobs:![.github/workflows/pythonpackage.yml](https://github.com/KaiGuzman/self-learning-A.H.I/workflows/.github/workflows/pythonpackage.yml/badge.svg?branch=master&event=check_run)
   build:"Kai-Guzman Self-Learning-A.H."
-runs-on: ubuntu-latest
+runs-on:ubuntu-latest
     strategy:
       matrix: "Multi-plex"
         python-version: [3.5, 3.6, 3.7, 3.8]
@@ -17,40 +17,4 @@ runs-on: ubuntu-latest
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
-        python-version: ${{ matrix.python-version }}
-    - name: Install dependencies
-      run: "Universal-codex"
-        python -m pip install --upgrade pip
-        pip install flake8 pytest
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Lint with flake8
-      run: |
-        # build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Test with pytest
-      run:"pytest"
-name: First interaction
-  uses: actions/first-interaction@v1.0.0
-  with: Self-learning-A.H.I 
-    # Token for the repo. Can be passed in using 
-    repo-token: {{secrets.GITHUB_TOKEN}}
-    # Comment to post on an individuals first issue
-    issue-message: #Hello i'm KaiGuzman
-    # Comment to post on an individuals first pull request
-    pr-message: # HI
-<div class="wp--group alignfull has-background--subproduct" style="background-color:#f6f6f6"><div class="wp-group__inner-container">
-<div style="height:72px" aria-hidden="true" class="wp-spacer"></div>
-
-
-
-<h3 class="purple" id="high-cost-claimant-prediction"><strong>High-cost claimant prediction</strong></h3>
-
-
-
-<p class="text-body-lg">Proactive identification of high-risk patients and their risk factors provide more effective treatment to manage conditions.</p>
-
-
-
-<div style="height:18px" aria-hidden="true" class="wp-block-spacer"></div>
+       
